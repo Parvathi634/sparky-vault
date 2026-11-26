@@ -10,7 +10,7 @@
 
 ## Hardware Components
 | Component | Quantity | Purpose |
-| :--- | :---: | :--- |
+| :--- | :--- | :--- |
 | Arduino Uno | 1 | Main microcontroller & logic processing |
 | NodeMCU (ESP8266) | 1 | Wi-Fi module for cloud/mobile telemetry |
 | IR Sensors | 6 | Entry, exit, and individual slot detection |
@@ -39,3 +39,6 @@
 - Predictive slot availability analytics using historical occupancy trends
 - Automated license plate recognition (ALPR) and digital payment integration
 - Pre-arrival slot reservation via mobile app
+
+## Hardware Setup
+![Hardware Setup](screenshots/setup.jpeg)
